@@ -18,6 +18,11 @@ ou
 ng --version
 ```
 
+#### Instalando o Angular CLI
+```
+npm install -g @angular/cli
+```
+
 #### Criar um novo projeto
 
 Cria uma area de trabalho e inicia um aplicativo Angular.
