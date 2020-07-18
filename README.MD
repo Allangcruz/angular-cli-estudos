@@ -33,7 +33,19 @@ ng new <nome-projeto>
 
 #### Iniciar servidor e autoreload
 
-#### 
+```
+ng serve
+```
+
+#### Build os arquivos ts e demais processos
+```
+ng build my-app -c production
+```
+
+
+# Referencias
+
+1. [angular.io/cli](https://angular.io/cli)
 
 
 
