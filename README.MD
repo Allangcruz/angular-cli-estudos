@@ -20,6 +20,12 @@ ng --version
 
 #### Criar um novo projeto
 
+Cria uma area de trabalho e inicia um aplicativo Angular.
+
+```
+ng new <nome-projeto>
+```
+
 #### Iniciar servidor e autoreload
 
 #### 
